@@ -208,7 +208,7 @@ $(document).ready(function(){
                 current_audio_ended = false;
 
                 // shorter instruction audio
-                current_audio = new Audio("https://cdn.glitch.me/55491f2e-b3d7-4553-b0b7-2b7c2789f793%2F0_.%20Instruction%20SHORT.mp3?v=1636296314747");
+                current_audio = new Audio("https://cdn.glitch.me/55491f2e-b3d7-4553-b0b7-2b7c2789f793%2F0_.%20Instruction%20SHORT%20shorter.mp3?v=1636569143281");
                 current_audio.play();
             }
         }
