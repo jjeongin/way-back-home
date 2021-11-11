@@ -115,7 +115,6 @@ $(document).ready(function(){
                     current_audio.play();
                     document.body.style.backgroundColor = "white"; // home is white
                     $("#train-station").hide();
-                    $("p").style.color = "black"; // change text color to black
                     $("#home").show();
                     current_scene = "home";
                 }
